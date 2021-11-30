@@ -1,0 +1,7 @@
+[user]
+	name = Anil Maharjan
+	email = 1720245+dejavu1987@users.noreply.github.com 
+[core]
+	autocrlf = input
+[credential]
+	helper = osxkeychain
